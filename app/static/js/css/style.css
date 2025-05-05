@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+
+.video-container {
+    width: 800px;
+    margin: 0 auto;
+}
+
+#videoFeed {
+    width: 100%;
+    border: 1px solid #ccc;
+} 

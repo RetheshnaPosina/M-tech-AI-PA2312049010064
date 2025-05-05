@@ -1,0 +1,28 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Data files
+data/outputs/*
+!data/outputs/.gitkeep
+
+# Logs
+logs/*
+!logs/.gitkeep
+
+# IDE
+.vscode/
+.idea/
+
+# Models
+*.pt
+*.onnx
+**/Package /
